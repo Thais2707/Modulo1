@@ -1,2 +1,2 @@
 # Modulo1
-Exercicios do primeiro modeulo
+Exercicios do primeiro modulo
